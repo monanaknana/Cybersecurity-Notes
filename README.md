@@ -15,7 +15,7 @@ This repository is my digital notebook a collection of write-ups, notes, cheat s
 > *"Indeed, Allah will not change the condition of a people until they change what is in themselves."*
 > **- Surah Ar-Ra'd (13:11)** <br>
 
-<br> This repository is more than just notes—it's a reminder to keep showing up.
+<br> This repository is more than just notes it's a reminder to keep showing up.
 
 Every challenge solved, every mistake made, and every lesson documented is one small step forward.
 
