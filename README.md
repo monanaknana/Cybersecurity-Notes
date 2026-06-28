@@ -1,26 +1,23 @@
-# 🛡️ Cybersecurity Notes
+# 🐑 Cybersecurity Notes
 
 Welcome to my cybersecurity learning repository.
 
-This repository serves as my personal knowledge base, where I document write-ups, notes, cheat sheets, and lessons learned throughout my cybersecurity journey. It reflects my continuous learning in areas such as CTFs, digital forensics, blue teaming, web security, and system administration.
+This repository is my digital notebook—a collection of write-ups, notes, cheat sheets, and lessons learned as I explore CTFs, digital forensics, blue teaming, web security, and beyond.
 
 > **⚠️ Disclaimer**
->
-> These notes are created solely for educational purposes and personal reference. They are intended to document my learning process and do **not** aim to disclose challenge flags, violate platform rules, or facilitate unauthorized activities.
+> All content is created for educational purposes and personal reference. It documents my learning journey and does **not** disclose challenge flags or encourage unauthorized activities.
 
 ---
 
-## 📖 A Personal Reminder
+## 🌱 A Reminder to Myself
 
-> **"Indeed, Allah will not change the condition of a people until they change what is in themselves."**
+> *"Indeed, Allah will not change the condition of a people until they change what is in themselves."*
 > **— Surah Ar-Ra'd (13:11)**
 
-One of the main reasons I created this repository is to remind myself that progress comes through consistent effort.
+This repository is more than just notes—it's a reminder to keep showing up.
 
-It's easy to wait for the "right moment" or hope that someone else will help us move forward. However, real growth begins when we take the first step ourselves.
+Every challenge solved, every mistake made, and every lesson documented is one small step forward.
 
-I believe this verse beautifully reflects that mindset. We can always ask Allah ﷻ for guidance, strength, patience, and ease, but meaningful change requires sincere effort and action from within ourselves.
+May Allah ﷻ grant me knowledge that benefits, sincerity in learning, and the strength to remain consistent.
 
-This repository is my way of documenting that journey—one note, one lab, one challenge, and one lesson at a time.
-
-> **"Small progress each day is still progress."** 🚀
+> **Learn. Build. Improve. Repeat.** 🚀
